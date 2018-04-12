@@ -1,0 +1,23 @@
+Caldini Matteo 5INC, 12/04/2018
+
+1. Cos'è github e quali sono le sue caratteristiche?
+Github è un software derivato da Git, che permette l'interazione tra più utenti contemporaneamente nello stesso progetto.
+Gli utenti possono, indipendentemente, aggiungere codice o apportare delle modifiche a quello originale, e quindi collaborare fra loro.
+
+2. Come si crea un repository privato?
+Per creare un repository privato, bisogna andare nella sezione Repository Management di GitHub (cartella in alto a sinistra) e scegliere l'opzione
+"Init". A questo punto viene chiesto all'utente la modalità di creazione del repository, per crearne uno privato, scegliere l'opzione GitHub.com e inserire
+le varie credenziali relative al Repo: selezionare l'account, scegliere un nome per la cartella, una eventuale descrizione, scegliere se mantenere l'accesso pubblico
+opppure privato, il percorso dove salvare il tutto e in caso anche il Template e la licenza. Infine premere il pulsante verde con la dicitura "Create Repository and Clone".
+
+3. Cosa si intende per fare un branch?
+Per fare un branch si intende la possibilità di creare un ramo parallelo e indipendente al progetto, dove all'interno l'utente potrà fare eventuali modifiche. Ognuna opportunatamente
+descritta tramite Commit. Viene, quindi, creata una copia del codice originale dove all'interno l'utente potrà lavorare senza problemi.
+
+4. Che cos'è e a cosa serve una issue?
+Una issue permette agli utenti di dare dei feedback ai progetti. Oltre che segnalare un abuso tramite un issue, l'utente può anche organizzare tramite essi tutte le attività
+in cui a contribuito.
+
+5. Cosa si fa quando si da il comando push in github?
+Nel momento in cui l'utente ha finito nell'apportare eventuali modifiche del progetto o nell'aggiunta di qualche parte, deve azionare il comando push tramite l'apposito pulsante
+posizionato in alto. Con questo comando l'utente potrà aggiungere ("spingere") il lavoro appena svolto al progetto originale, quindi inserirà le proprie modifiche al Repository remoto. 
